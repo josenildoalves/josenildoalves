@@ -42,4 +42,3 @@ class Josenildo extends Human {
 ## ❄️ Current Personal Projects:
 
 - Knowledge Sharing
-💬 Ask me about anything
